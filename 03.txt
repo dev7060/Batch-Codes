@@ -1,0 +1,5 @@
+> set varname = Howdy
+> %varname%
+
+> set varname = "Howdy"
+> %varname%
