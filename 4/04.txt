@@ -1,0 +1,12 @@
+> set
+
+> %computername%
+
+> set varname =  howdy
+
+> set
+
+> set var *enter*
+
+> set USER
+

@@ -1,0 +1,18 @@
+> help
+
+> help dir
+
+> dir /B
+
+> ver
+
+> help ver
+
+> ver /?
+
+> dir /?
+
+> help cls
+
+> cls /?
+

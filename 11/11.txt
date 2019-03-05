@@ -1,0 +1,7 @@
+> @echo Hello there!
+
+> echo Hello there!
+
+> ver
+
+> @ver

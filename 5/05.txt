@@ -1,0 +1,13 @@
+> set string=John
+
+> set string+= Hammond
+
+> %string%
+
+> set string=John
+
+> set string=%string% Hammond
+
+> %string%
+
+> echo %string%
